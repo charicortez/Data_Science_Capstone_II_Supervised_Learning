@@ -86,7 +86,10 @@ My Mentor taught me that establishing a base model and baseline performance metr
 ## Nonparametric Classification models on post-EDA clean dataset with new features 
 ### KNN
 The KNN accuracy scores with statistically significant feature set showed overfittingand poor predictive power. While the predictive performance is relatively poor, **the generated/engineered features were found to have a significant impact on the out-of-sample predictions**
-<img width="323" alt="Screenshot 2024-11-12 at 3 19 54 PM" src="https://github.com/user-attachments/assets/b9d40cec-f75f-48f9-a85b-b8333fcadc1c"><img width="407" alt="image" src="https://github.com/user-attachments/assets/0fcc129f-5ad3-4dda-8850-7eefa0c977b6">
+
+<img width="323" alt="Screenshot 2024-11-12 at 3 19 54 PM" src="https://github.com/user-attachments/assets/b9d40cec-f75f-48f9-a85b-b8333fcadc1c">
+
+<img width="407" alt="image" src="https://github.com/user-attachments/assets/0fcc129f-5ad3-4dda-8850-7eefa0c977b6">
 
 ### Random Forest
 Random Forest models also had low accuracy scores and poor predictive power
