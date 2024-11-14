@@ -71,7 +71,9 @@ Importantly, this clean dataframe
 The clean dataframe is a high-dimensional real-world dataset comprised of **12,624 records** and **73 variables**.
 
 ### II. Data Exploration 
+#### What does my target look like?
 The target is **class-imbalanced and not linearly separable**
+![image](https://github.com/user-attachments/assets/5f360494-2212-48cf-8a3d-e10848ff922c)![image](https://github.com/user-attachments/assets/df7bdc39-1c2f-419d-87f1-fb40fa201ae7)
 
 <img width="489" alt="Screenshot 2024-11-12 at 3 03 10 PM" src="https://github.com/user-attachments/assets/a4ca09d1-a5cb-4459-bd29-086080b9c2bb">
 
