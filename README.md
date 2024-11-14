@@ -61,6 +61,13 @@ EDA is the process of exploring data to discover insights, identify patterns, es
   - *Shapiro test* statistics
   - *Yeo-Johnson* Transformation
 
+## Data Cleaning produced a clean dataframe suitable for Featue Engineering and Modeling
+Importantly, this clean dataframe
+* Lacks missing values and records
+* Has one-hot encoded/labeled categorical variables
+* Has log-transformed continuous variables (where applicable)
+* Has scaled and normalized continuous variables
+
 ### II. Data Exploration 
 The target is **class-imbalanced and not linearly separable**
 
