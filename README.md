@@ -125,16 +125,16 @@ Random Forest models also had low accuracy scores and poor predictive power
 - With Gradient boost models, one can *readily obtain feature importance data*
 
 ## Improving the GB model (a model can always be improved!)
-1. The GB model built here has higher Accuracy and AUC-ROC scores than those in the "[WiDs Data Exploration | ML | Starter](https://www.kaggle.com/code/ddosad/wids-data-exploration-ml-starter)" 
+### 1. The GB model built here has higher Accuracy and AUC-ROC scores than those in the "[WiDs Data Exploration | ML | Starter](https://www.kaggle.com/code/ddosad/wids-data-exploration-ml-starter)" 
 - 3rd highest-voted notebook
 - Served as a good "sanity check" during model development
-2. Real-world clinical data can be messy, complex and tricky to navigate at times
+### 2. Real-world clinical data can be messy, complex and tricky to navigate at times
 - Might need more records to increase predictive power
   - The post-EDA "clean" dataset had 12,624 records and a class-imbalanced target (0: 37.5% | 1: 62.5%)
   - Some models might need >15K, 50K, or even 500K to have strong predictive power
 - Medical diagnosis models can be particularly challenging due to limited samples and nature of data
-3. Go back to Feature Engineering phase with feature importance data obtained during GB model optimization
-4. Research new and different supervised learning Classfication models
+### 3. Go back to Feature Engineering phase with feature importance data obtained during GB model optimization
+### 4. Research new and different supervised learning Classfication models
   - XGBost, LightGBM, CatBoost, Extra Trees, Multilayer Perceptron, etc.
 
 ## The EDA process executed herein is clear, reproducible and thorough
