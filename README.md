@@ -68,6 +68,8 @@ Importantly, this clean dataframe
 * Has log-transformed continuous variables (where applicable)
 * Has scaled and normalized continuous variables
 
+The clean dataframe is a high-dimensional real-world dataset comprised of **12,624 records** and **73 variables**.
+
 ### II. Data Exploration 
 The target is **class-imbalanced and not linearly separable**
 
